@@ -20,5 +20,7 @@ Numpy,Pandas,Scikit,Matplotlib,sklearn
 
 ![png-clipart-power-bi-business-intelligence-power-pivot-microsoft-dynamics-microsoft-text-logo-thumbnail](https://user-images.githubusercontent.com/113009110/232313618-a09a299b-27a9-4adf-8168-e8973a70ec06.png)
 
+![tableau-logo-server-png-white-background](https://user-images.githubusercontent.com/113009110/232314030-98700969-fd16-471b-be38-c940bac32d8a.png)
+
 
 
